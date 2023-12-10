@@ -1,16 +1,14 @@
 ### Hi there 👋
+<link rel="stylesheet" type="text/css" href="styles.css">
 
-<!--
-**UrosZikic/UrosZikic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <div class="container-1" style="display:grid; grid-template-columns: 1fr;"> 
+- 🔭 I’m currently working on a blog website
+- 🌱 I’m currently learning WordPress custom theme development
+- 👯 I’m looking to collaborate on php/js projects
+- 📫 How to reach me: uroszikic1512988@gmail.com
+- ⚡ Fun fact: Knows how to center a div!
+ </div>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
