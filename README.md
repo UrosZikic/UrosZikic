@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uros Zikic</h1>
 <h3 align="center">An aspiring web developer</h3>
-<img width="400px" align="right" alt="coding" src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" />
+<img width="300" align="right" alt="coding" src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uroszikic&label=Profile%20views&color=0e75b6&style=flat" alt="uroszikic" /> </p>
 
