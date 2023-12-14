@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I can center a div**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me on:<a href="https://www.linkedin.com/in/uro%C5%A1-%C5%BEiki%C4%87-78010819a/"> Linkedin</a></h3>
 <p align="left">
 </p>
 
