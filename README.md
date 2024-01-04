@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uroszikic&label=Profile%20views&color=0e75b6&style=flat" alt="uroszikic" /> </p>
 
-- 🔭 I’m currently working on **A blog website**
+- 🔭 I’m currently working on **task menagement application**
 
 - 🌱 I’m currently learning **WordPress**
 
