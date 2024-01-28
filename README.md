@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on an <a href="https://github.com/UrosZikic/E-shop">e-commerce website</a>
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **PHP/JS projects**
 
