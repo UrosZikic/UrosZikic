@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uroszikic&label=Profile%20views&color=0e75b6&style=flat" alt="uroszikic" /> </p>
 
-- 🔭 I’m currently working on an <a href="https://github.com/UrosZikic/E-shop">e-commerce website</a>
+- 🔭 I’m currently working on a website for an <a href="https://github.com/adamdervisevic/HoneyBee">online school of English</a>
 
 - 🌱 I’m currently learning **Python**
 
