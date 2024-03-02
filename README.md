@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a website for an <a href="https://github.com/adamdervisevic/HoneyBee">online school of English</a>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 Check out my latest <a href="https://cbonlinestore.000webhostapp.com/index.php">Store Application</a>
 
 - 👯 I’m looking to collaborate on **PHP/JS projects**
 
