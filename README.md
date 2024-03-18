@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://uroszikic.github.io/Portfolio/](https://uroszikic.github.io/Portfolio/)
 
-- 📫 How to reach me **uroszikic1512988@gmai.com**
+- 📫 How to reach me **uroszikic1512988@gmail.com**
 
 - 📄 Know about my experiences [https://uroszikic.github.io/Portfolio-Website/assets/images/Zikic-Resume.pdf](https://uroszikic.github.io/Portfolio-Website/assets/images/Zikic-Resume.pdf)
 
