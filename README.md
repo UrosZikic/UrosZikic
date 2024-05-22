@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uroszikic&label=Profile%20views&color=0e75b6&style=flat" alt="uroszikic" /> </p>
 
-- 🔭 I’m currently working on a website for an <a href="https://github.com/adamdervisevic/HoneyBee">online school of English</a>
+- 🔭 I’m currently working on a reactive project
 
 - 🌱 Check out my latest <a href="https://cbonlinestore.000webhostapp.com/index.php">Store Application</a>
 
 - 👯 I’m looking to collaborate on **PHP/JS projects**
 
-- 👨‍💻 All of my projects are available at [https://uroszikic.github.io/Portfolio/](https://uroszikic.github.io/Portfolio/)
+- 👨‍💻 Learn more about me via my <a href="https://zix-dev.netlify.app/">personal website</a>
 
 - 📫 How to reach me **uroszikic1512988@gmail.com**
 
-- 📄 Know about my experiences [https://uroszikic.github.io/Portfolio-Website/assets/images/Zikic-Resume.pdf](https://uroszikic.github.io/Portfolio-Website/assets/images/Zikic-Resume.pdf)
+- 📄 Know about my <a href="https://zix-dev.netlify.app/static/media/Zikic-Resume.3be745de8716eed02a9a.pdf">experience</a>
 
 - ⚡ Fun fact **I can center a div**
 
