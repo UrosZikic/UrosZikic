@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **uroszikic1512988@gmail.com**
 
-- 📄 Know about my <a href="https://zix-dev.netlify.app/static/media/Zikic-Resume.3be745de8716eed02a9a.pdf">experience</a>
+- 📄 Know about my <a href="https://github.com/UrosZikic/newFolio/blob/gh-pages/static/media/Zikic-Resume.3e67dfdbe3f5066993d8.pdf">experience</a>
 
 - ⚡ Fun fact **I can center a div**
 
