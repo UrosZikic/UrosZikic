@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **PHP/JS projects**
 
-- 👨‍💻 Learn more about me via my <a href="https://zix-dev.netlify.app/">personal website</a>
+- 👨‍💻 Learn more about me via my <a href="https://uroszikic.github.io/newFolio/">personal website</a>
 
 - 📫 How to reach me **uroszikic1512988@gmail.com**
 
