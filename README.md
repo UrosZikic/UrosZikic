@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a reactive project
 
-- 🌱 Check out my latest <a href="http://e-shop-project.infinityfreeapp.com/index.php">Store Application</a>
+- 🌱 Check out my latest <a href="https://ecommercereact.infinityfreeapp.com/">Store Application</a>
 
 - 👯 I’m looking to collaborate on **PHP/JS projects**
 
